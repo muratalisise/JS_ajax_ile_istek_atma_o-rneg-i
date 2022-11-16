@@ -1,0 +1,7 @@
+{
+    "personel" : [
+        {"name" : "Murat Ali" , "surname" : "ŞİŞE", "age": 20, "retired": false}, 
+        {"name" : "Mehmet" , "surname" : "TUREN", "age": 20, "retired": false}, 
+        {"name" : "Ramazan" , "surname" : "ŞİMŞEK", "age": 20, "retired": false} 
+    ]
+}
